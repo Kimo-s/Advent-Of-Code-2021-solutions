@@ -25,3 +25,4 @@ gamma_rate = eval(f"0b{''.join(gamma_rate)}")
 epsilon_rate = eval(f"0b{''.join(epsilon_rate)}")
 
 print(gamma_rate*epsilon_rate)
+print("test")
